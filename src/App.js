@@ -1,4 +1,5 @@
-import Inizio from "./lezioni/13-useCallBack/risultato/index";
+import Inizio from "./lezioni/3-render-condizionale/inizio/3-show-hide";
+
 
 function App() {
   return (
