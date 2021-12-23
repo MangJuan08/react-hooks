@@ -1,4 +1,4 @@
-import Inizio from "./lezioni/6-useReducer/inizio/index";
+import Inizio from "./lezioni/8-useContext/inizio/context";
 
 
 function App() {
